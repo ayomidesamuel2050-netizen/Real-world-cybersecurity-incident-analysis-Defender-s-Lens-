@@ -12,7 +12,7 @@ A structured analysis of real-world cybersecurity incidents conducted from a def
 4. Equifax Data Breach (2017)
 5. NotPetya Malware Attack (2017)
 ---
-### Yahoo data breach ###
+# Yahoo data breach 
 The Yahoo data breach, which initially occured in 2013 but was publicly disclosed in 2016, remains one of the largest known data breaches in history.
 This incident compromised over 3 billion user accounts and exposed personally identifiable information (PII), security question, and hashed passwords, creating a substantial impact on both Yahoo users and the broader cybersecurity community. Analyzing this breach from a defender-centric perspective provides valuable insights into attack vectors, system vulnerabilities, and preventive strategies essential for improving organizational security posture.
 
